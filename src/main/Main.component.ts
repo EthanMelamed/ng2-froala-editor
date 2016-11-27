@@ -1,5 +1,5 @@
 import {Component, OnInit, Input, Output, EventEmitter} from "@angular/core";
-import { FroalaEditorCompnoent } from '../froala/froala.component';
+import { FroalaEditorComponent } from '../froala/froala.component';
 
 declare var require: any;
 declare var $: any;
